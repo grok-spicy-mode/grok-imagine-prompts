@@ -1,6 +1,6 @@
 # Grok Imagine Prompts - AI Image Generation Prompts for Spicy Mode
 
-[English](README.md) | [Español](README_es.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [العربية](README_ar.md) | [한국어](README_ko.md) | [Tiếng Việt](README_vi.md) | [日本語](README_ja.md) | [简体中文](README_zh-CN.md) | 繁體中文
+[English](../README.md) | [Español](README_es.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Français](README_fr.md) | [Deutsch](README_de.md) | [العربية](README_ar.md) | [한국어](README_ko.md) | [Tiếng Việt](README_vi.md) | [日本語](README_ja.md) | [简体中文](README_zh-CN.md) | 繁體中文
 
 <div align="center">
   <a href="https://grokprompts.app">
